@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(171, 154, 188);
+}
+div{
+    width: 800px;
+    height: 800px;
+    background-color: rgb(155, 116, 191);
+    margin-left: 350px;
+    border: solid 2px black;
+}
+p{
+    text-transform: capitalize;
+    text-align: justify;
+}
+h1{
+    text-shadow: 2px 0px 0px;
+    box-shadow: 3px 0px 0px;
+}
+details{
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
